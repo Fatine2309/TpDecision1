@@ -22,7 +22,7 @@ Le nettoyage a consisté à :
    o	Les colonnes contenant des valeurs manquantes (NaN) ont été nettoyées avec la méthode fillna(0) pour éviter les erreurs lors des calculs.
 
    
-3.	Conversion en valeurs numériques :
+2.	Conversion en valeurs numériques :
    o	Les colonnes suivantes ont été converties en valeurs numériques :
   		PeopleInjured : Nombre de personnes blessées
   		NumberStruckActual : Nombre d'oiseaux effectivement frappés.
