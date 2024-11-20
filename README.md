@@ -29,8 +29,7 @@ Le nettoyage a consisté à :
   		NumberStruckActual : Nombre d'oiseaux effectivement frappés.
   		Damage : Encodée en 0 pour "aucun dommage" et 1 pour "dommage causé".
   	  Engines : Nombre de moteurs de l'avion.
-
-     
+    
   	o	Les données non convertibles ont été remplacées par 0 via errors="coerce".
 
 
