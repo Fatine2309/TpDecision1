@@ -25,6 +25,8 @@ Le nettoyage a consisté à :
 2.	Conversion en valeurs numériques :
    
    o	Les colonnes suivantes ont été converties en valeurs numériques :
+
+   
   		PeopleInjured : Nombre de personnes blessées
 
     
