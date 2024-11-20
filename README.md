@@ -31,6 +31,7 @@ Le nettoyage a consisté à :
   	  Engines : Nombre de moteurs de l'avion.
     
   	o	Les données non convertibles ont été remplacées par 0 via errors="coerce".
+   
 
 
 Conclusion
